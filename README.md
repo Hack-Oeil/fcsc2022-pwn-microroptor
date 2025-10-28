@@ -4,7 +4,7 @@ On vous demande d’exploiter le binaire fourni pour lire le fichier **flag** qu
 
 ![badpun.jpg](badpun.jpg)
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [microroptor](https://hackropole.fr/fr/challenges/pwn/fcsc2022-pwn-microroptor/)
 
